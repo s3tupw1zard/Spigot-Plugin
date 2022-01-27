@@ -1,0 +1,8 @@
+name: Spigot Plugin
+version: '${project.version}'
+main: de.iehmail.spigotplugin.SpigotPlugin
+api-version: 1.18
+load: STARTUP
+authors: [ s3tupw1zard ]
+description: Spigot Plugin for learning
+website: iehmail.de
